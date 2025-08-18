@@ -14,3 +14,8 @@ Portfolio for healthcare compliance (HIPAA, GDPR, ФЗ-152)
 - Анализ Privacy Rule (§164.5XX)
 - Кейсы по интеграции с EHR-системами
 - Шаблоны BAA (Business Associate Agreement)
+
+## Сегодняшний прогресс
+- [x] eSecurity Manager 
+- [x] Отслеживание сообщений
+- [ ] Настройка профилей (начало)
